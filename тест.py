@@ -46,4 +46,4 @@ while True:
     if otvet == 'нет':
         break
     
-
+#
